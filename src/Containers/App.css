@@ -1,0 +1,10 @@
+@font-face{
+    src: url("https://fonts.googleapis.com/css2?family=Griffy&display=swap");
+    font-family: 'Griffy', cursive;
+}
+
+
+h1 {
+    font-family: "Griffy",cursive;
+    font-size: 50px!important
+}
